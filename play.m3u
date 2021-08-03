@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Zee Bangla HD
 http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
-#EXTINF:-1, Star Plus
-http://stream.dhakaflix.com:8081/Star_Plus/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Sony Aath SD
-http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, Cartoon Network HD
 http://stream.dhakaflix.com:8081/live/cn/chunks.m3u8
 #EXTINF:-1, Jalsha Movies HD
@@ -13,12 +9,16 @@ http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
 http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
 #EXTINF:-1, nickelodeon HD
 http://stream.dhakaflix.com:8081/live/nick.m3u8/chunks.m3u8
-#EXTINF:-1, Music India
-http://stream.dhakaflix.com:8081/Zoom/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Sanget Bangla 
-http://stream.dhakaflix.com:8081/SangeetBangla/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, Star Gold 
-http://stream.dhakaflix.com:8081/Star_Plus/tracks-v1a1/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
